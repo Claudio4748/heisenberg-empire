@@ -1,7 +1,5 @@
 # **HEISENBERG'S EMPIRE — Breaking Bad 3D** 🧪🎮
 
-### heisenber.empire.edgeone.app
-
 Una nuova dimensione del crimine ti aspetta. Benvenuto in **Heisenberg's Empire**, un'esperienza immersiva 3D che ti catapulta nel mondo di Breaking Bad.
 
 ---
