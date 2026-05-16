@@ -662,7 +662,6 @@ function buildWorld() {
 
   // RV starting position
   rvMesh = buildRV(-5, 0, -15);
-  colliders.push({ x: -5, z: -15, r: 2.2 });
 
   // Distant mountains
   buildMountains();
@@ -1440,6 +1439,7 @@ function updateShopItems() {
   const content = document.getElementById('phone-content');
   const items = [
     { name: '⚗️ Distillatore', price: 50000, id: 'distiller' },
+    { name: '⚗️ Matraccio (x5)', price: 10000, id: 'matraccio' },
     { name: '🔬 Tubo Spirale', price: 30000, id: 'spiral' },
     { name: '🧪 Becher (x5)', price: 10000, id: 'beaker' },
     { name: '💼 Reattore', price: 80000, id: 'reactor' },
